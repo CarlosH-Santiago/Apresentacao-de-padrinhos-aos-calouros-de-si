@@ -32,6 +32,7 @@ h1 {
   padding: 1rem;
   text-align: center;
   transition: transform 0.3s;
+  height: auto;
 }
 
 .card:hover {
@@ -53,6 +54,11 @@ h1 {
 .card p {
   font-size: 0.9rem;
   color: #555;
+}
+.card p.bio {
+  font-size: 0.9rem;
+  color: #555;
+  text-align: justify;
 }
 
 .card a {

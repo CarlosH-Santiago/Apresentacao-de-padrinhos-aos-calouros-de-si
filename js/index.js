@@ -43,7 +43,7 @@ const padrinhos = [
         <img src="${p.foto}" alt="Foto de ${p.nome}">
         <h3>${p.nome}</h3>
         <p><strong>${p.semestre}</strong></p>
-        <p>${p.bio}</p>
+        <p class="bio">${p.bio}</p>
         <a class="github" href="${p.github}">Github</a>
         <a class="linkedin" href="${p.linkedin}">Linkedin</a>
     </div>
