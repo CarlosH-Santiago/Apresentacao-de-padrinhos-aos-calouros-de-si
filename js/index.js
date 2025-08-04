@@ -48,6 +48,14 @@ const padrinhos = [
       linkedin: "www.linkedin.com/in/joaopinn20",
     },
     {
+      nome: "Jadson Sobrinho",
+      semestre: "4º semestre",
+      foto: "../assets/images/Jadson.jpeg",
+      bio: "Possuo conhecimento multidisciplinar nas áreas de back-end, front-end e dados. Mas meu foco principal é a área de dados, então quem está entrando agora no curso e tem curiosidade de conhecer na área, não hesite em entrar em contato. <br> PS: Não espere muito da área de front",
+      github: "https://github.com/Jadson-Sobrinho/",
+      linkedin: "https://www.linkedin.com/in/jadson-sobrinho-654998220",
+    },
+    {
       nome: "",
       semestre: "3º semestre",
       foto: "../assets/images/default.jpg",
