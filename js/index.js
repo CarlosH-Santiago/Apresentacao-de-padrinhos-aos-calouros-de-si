@@ -56,6 +56,15 @@ const padrinhos = [
       linkedin: "https://www.linkedin.com/in/jadson-sobrinho-654998220",
     },
     {
+      nome: "Mateus Queiroz",
+      semestre: "4º semestre",
+      foto: "../assets/images/matheus.jpeg",
+      bio: "Sou Mateus Queiroz, estudante de Sistemas de Informação e Administração, além de técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho experiência em gestão administrativa, financeira e atendimento, com forte interesse em gestão de projetos e empreendedorismo. Possuo conhecimentos em HTML, CSS, SQL, Python e Java, aplicados no desenvolvimento de soluções inovadoras. Já participei de projetos acadêmicos e sociais como sistemas para banco de sangue e leite materno, plataforma de voluntariado educacional e ferramentas para descarte correto de resíduos, entre outras iniciativas voltadas à transformação social. Busco unir tecnologia e gestão para criar soluções que gerem impacto positivo em pessoas e organizações.",
+      github: "https://github.com/Mateus-tech",
+      linkedin: "https://www.linkedin.com/in/mateus-queiroz-00a470340",
+    },
+    /*
+    {
       nome: "",
       semestre: "3º semestre",
       foto: "../assets/images/default.jpg",
@@ -63,6 +72,7 @@ const padrinhos = [
       github: "https://",
       linkedin: "https://",
     },
+    */
   ];
 
   const container = document.getElementById('cards-container');
