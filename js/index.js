@@ -55,14 +55,6 @@ const padrinhos = [
         github: "https://github.com/Mateus-tech",
         linkedin: "https://www.linkedin.com/in/mateus-queiroz-00a470340",
       },
-      {
-        nome: "Elias Guideon Carneiro Barreto",
-        semestre: "4º semestre",
-        foto: "../assets/images/EliasGuideon.jpg",
-        bio: " Sou Elias, tenho 20 anos, conclui o tecnico em adm aos 17, tenho gosto pelo ingles, mas do ensino medio pra cá tenho voltado meus estudos para a programacao, especialmente para a area de dados, a posicão que almejo alcancar é de analista de dados e talvez beeem depois cientista de dados",
-        github: "https://github.com/5VI73",
-        linkedin: "https://www.linkedin.com/in/elias-guideon-barreto-b576922a9/",
-      },
       /*
       {
       nome: "",
