@@ -49,6 +49,14 @@ const padrinhos = [
         github: "https://github.com/Mateus-tech",
         linkedin: "https://www.linkedin.com/in/mateus-queiroz-00a470340",
       },
+            {
+      nome: "Henrique Estrela",
+      semestre: "6º semestre",
+      foto: "../assets/images/Estrela.jpeg",
+      bio: "Oi, eu sou Henrique Estrela! Tenho 21 anos, sou técnico em ADS pelo SENAI, freelancer na área web e estudante de Sistemas de Informação na UNEX. Sou conhecido pelo meu jeito alegre, paciente e curioso. Minha paixão é criar produtos que unem UX, usabilidade e inovação, tornando a tecnologia mais intuitiva e significativa. Na prática, já acumulei experiências com desenvolvimento web (Angular, React, Vue.js, Firebase, Node, API e etc), apps (Kotlin, Flutter), UX Design e análise de dados. Desenvolvi alguns projetos como Projetos em 3D, RevistaAlternativa, DJConsultoria , Tô na rota, Sustentabilidade Gamificada e outos ai , tenho facilidade em ensinar e compartilhar conhecimento de forma colaborativa. Se você se interessa por desenvolvimento web e afins, vou adorar te orientar nessa jornada.",
+      github: "https://github.com/Henrique-Estrela",
+      linkedin: "https://www.linkedin.com/in/henrique-estrela-21163921a/",
+    },
       /*
       {
       nome: "",
